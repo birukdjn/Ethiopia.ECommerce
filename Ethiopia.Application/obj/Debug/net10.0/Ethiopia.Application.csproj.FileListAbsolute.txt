@@ -1,0 +1,15 @@
+D:\Csharp\Ethiopia.ECommerce\Ethiopia.Application\bin\Debug\net10.0\Ethiopia.Application.deps.json
+D:\Csharp\Ethiopia.ECommerce\Ethiopia.Application\bin\Debug\net10.0\Ethiopia.Application.dll
+D:\Csharp\Ethiopia.ECommerce\Ethiopia.Application\bin\Debug\net10.0\Ethiopia.Application.pdb
+D:\Csharp\Ethiopia.ECommerce\Ethiopia.Application\bin\Debug\net10.0\Ethiopia.Domain.dll
+D:\Csharp\Ethiopia.ECommerce\Ethiopia.Application\bin\Debug\net10.0\Ethiopia.Domain.pdb
+D:\Csharp\Ethiopia.ECommerce\Ethiopia.Application\obj\Debug\net10.0\Ethiopia.Application.csproj.AssemblyReference.cache
+D:\Csharp\Ethiopia.ECommerce\Ethiopia.Application\obj\Debug\net10.0\Ethiopia.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\Ethiopia.ECommerce\Ethiopia.Application\obj\Debug\net10.0\Ethiopia.Application.AssemblyInfoInputs.cache
+D:\Csharp\Ethiopia.ECommerce\Ethiopia.Application\obj\Debug\net10.0\Ethiopia.Application.AssemblyInfo.cs
+D:\Csharp\Ethiopia.ECommerce\Ethiopia.Application\obj\Debug\net10.0\Ethiopia.Application.csproj.CoreCompileInputs.cache
+D:\Csharp\Ethiopia.ECommerce\Ethiopia.Application\obj\Debug\net10.0\Ethiopia.2321BA5F.Up2Date
+D:\Csharp\Ethiopia.ECommerce\Ethiopia.Application\obj\Debug\net10.0\Ethiopia.Application.dll
+D:\Csharp\Ethiopia.ECommerce\Ethiopia.Application\obj\Debug\net10.0\refint\Ethiopia.Application.dll
+D:\Csharp\Ethiopia.ECommerce\Ethiopia.Application\obj\Debug\net10.0\Ethiopia.Application.pdb
+D:\Csharp\Ethiopia.ECommerce\Ethiopia.Application\obj\Debug\net10.0\ref\Ethiopia.Application.dll

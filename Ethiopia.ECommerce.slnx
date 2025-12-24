@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Ethiopia.API/Ethiopia.API.csproj" />
+  <Project Path="Ethiopia.Application/Ethiopia.Application.csproj" />
+  <Project Path="Ethiopia.Domain/Ethiopia.Domain.csproj" />
+  <Project Path="Ethiopia.Infrastructure/Ethiopia.Infrastructure.csproj" />
+</Solution>
